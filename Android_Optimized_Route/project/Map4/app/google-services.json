@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "263314703015",
+    "firebase_url": "https://myprojects-a4464.firebaseio.com",
+    "project_id": "myprojects-a4464",
+    "storage_bucket": "myprojects-a4464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263314703015:android:4a207ced4343de3f",
+        "android_client_info": {
+          "package_name": "com.example.tasfia.map4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263314703015-53uhio9go80lu2b2an62b1ob1o06t3i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tasfia.map4",
+            "certificate_hash": "bc31db8f97adb6f638847bdd41cdb6ee5c41afe8"
+          }
+        },
+        {
+          "client_id": "263314703015-kse9k3qj1ts4j394vn5jlen3mr6k70so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5dv1HW_m0JTGzN4AXus6BnTihOVa8s4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263314703015-kse9k3qj1ts4j394vn5jlen3mr6k70so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
